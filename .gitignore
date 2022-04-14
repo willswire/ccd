@@ -1,3 +1,6 @@
+build
+googletest
+.txt
 __pycache__
 *.json
 *.yml
