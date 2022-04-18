@@ -1,0 +1,49 @@
+#include <gmock/gmock.h>
+#include "TestCode.h"
+
+
+TEST(bitwiseOps_test, and_case)
+{
+    ASSERT_EQ(bitwiseOps("0000000000001110","0000000000001110"), 14);
+    ASSERT_EQ(bitwiseOps("1110000000001110","0000000000001110"), 14);
+}
+
+TEST(bitwiseOps_test, or_case)
+{
+    ASSERT_EQ(bitwiseOps("0000000000001111","0000000000001111"), 15);
+    ASSERT_EQ(bitwiseOps("0000000001001111","0000000000001111"), 79);
+    ASSERT_EQ(bitwiseOps("1110000000001111","0000000000001111"), 57359);
+}
+
+TEST(bitwiseOps_test, xor_case)
+{
+    ASSERT_EQ(bitwiseOps("0000000100000001","0000000100000000"), 1);
+    ASSERT_EQ(bitwiseOps("0000000100000000","0000000100000001"), 1);
+}
+
+TEST(bitwiseOps_test, add_case)
+{
+    ASSERT_EQ(bitwiseOps("0000000000001110","0000000111111111"), 525); 
+    ASSERT_EQ(bitwiseOps("0000000111111111","0000000000001110"), 525); 
+    ASSERT_EQ(bitwiseOps("0000000000001111","0000000111111110"), 525); 
+    ASSERT_EQ(bitwiseOps("0000000111111110","0000000000001111"), 525); 
+}
+
+TEST(bitwiseOps_test, non_binary_text)
+{
+    ASSERT_EQ(bitwiseOps("000000000000111 ","0000000000001110"), -2);
+    ASSERT_EQ(bitwiseOps("0000000000001110"," 000000000001110"), -2);
+    ASSERT_EQ(bitwiseOps("0000000000002110","0000000000001110"), -2);
+}
+TEST(bitwiseOps_test, string_length)
+{
+    ASSERT_EQ(bitwiseOps("00000000000011101","0000000000001110"), -1);
+    ASSERT_EQ(bitwiseOps("0000000000001110","00000000000011101"), -1);
+    ASSERT_EQ(bitwiseOps("0000000000001110","000000000001110"), -1);
+    ASSERT_EQ(bitwiseOps("000000000000111","0000000000011101"), -1);
+}
+TEST(bitwiseOps_test, null_array)
+{
+    ASSERT_EQ(bitwiseOps(NULL,"0000000000001111"), -1);
+    ASSERT_EQ(bitwiseOps("0000000000001111", NULL),-1);
+}
