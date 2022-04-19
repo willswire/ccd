@@ -1,0 +1,11 @@
+# ALGORITHMS
+# Review:
+# - Big(O) notation for select algorithms
+# - Open addressing and Separate chaining
+1, 4, 5, 7, 8, 9, 11, 12, 15, 17, 18
+
+# ASSEMBLY
+# Review:
+# - 
+
+
