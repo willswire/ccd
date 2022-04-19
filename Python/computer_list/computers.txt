@@ -1,0 +1,15 @@
+Lenovo, Thinkpad X1, 795.95, 16, 512
+HP, Ideapad, 595, 8, 128
+Lenovo, T480, 2167.50, 16, 1024
+HP, Pavillion, 619.99, 8, 256
+Asus, Zenbook Pro, 999.99, 16, 512
+Asus, TUF, 599.95, 8, 512
+Dell, Inspiron 5000, 689, 8, 128
+Lenovo, X1 Extreme, 1395, 16, 1024
+Lenovo, X390, 749.50, 8, 512
+HP, Elitebook, 1132.95, 8, 512
+HP, Envy, 899.00, 8, 256
+Asus, Vivobook, 157, 2, 128
+Dell, M4800, 479.99, 4, 128
+Dell, Lattitude, 269.91, 4, 128
+HP, Omen, 799.99, 8, 256
