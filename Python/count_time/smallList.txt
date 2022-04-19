@@ -1,0 +1,10 @@
+rboone, 12
+dgilles, 8
+jwarren, 12
+ecruz, 22
+rboone, 17
+dgilles, 18
+jwarren, 2
+ecruz, 12
+ecruz, 10
+rboone, 5
