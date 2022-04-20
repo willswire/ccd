@@ -6,6 +6,11 @@
 
 # ASSEMBLY
 # Review:
-# - 
+# - Instructions/Opcodes (ret, dw, call, etc.)
+# - Registers (rcx, ah, rdx, ecx) (32-bit vs 64-bit, CF bit)
+# - Addresses in registers
+4, 6, 8, 10, 11, 13, 14, 16, 19
+
+## CUR ON 2.22
 
 
