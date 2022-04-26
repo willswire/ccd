@@ -1,0 +1,4 @@
+Too small file.
+A test to see if no matches are found in this file.
+If it finds matches to the string, this is a bad.
+I'll be sad, and I will be upset
