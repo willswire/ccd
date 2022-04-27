@@ -21,15 +21,13 @@ unsigned int packCharacters(char ch4, char ch3, char ch2, char ch1)
 
 char *unpackCharacters(unsigned int pack)
 {
-    char temp[4];
-    char d = pack >> BYTE;
-    temp[3] = (char) d;
-    char c = pack >> (2 * BYTE);
-    temp[2] = (char) c;
-    char b = pack >> (3 * BYTE);
-    temp[1] = (char) b;
-    char a = pack >> (4 * BYTE);
-    temp[0] = (char) a;
-
+    char *temp = NULL;
+    if (pack != 0) {
+        temp = malloc(4 * sizeof(char));
+        *(temp + 3) = pack;
+        *(temp + 2) = pack >> BYTE;
+        *(temp + 1) = pack >> (BYTE * 2);
+        *(temp) = pack >> (BYTE * 3);
+    }
     return temp;
 }
