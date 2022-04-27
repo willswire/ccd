@@ -6,10 +6,12 @@
 
 # ASSEMBLY
 # Review:
-# - Instructions/Opcodes (ret, dw, call, end, etc.)
-# - Registers (rcx, ah, rdx, ecx) (32-bit vs 64-bit, CF bit)
+# - Instructions/Opcodes (ret, dw, call, end, int)
+# - Registers (rcx, ah, rdx, ecx, edx, edi) (32-bit vs 64-bit, CF bit)
 # - Addresses in registers
 # - Stack manipulation
-4, 6, 8, 10, 11, 13, 14, 16, 19, 22, 24, 27, 28, 29, 30, 31, 33, 37, 38, 
+4, 6, 8, 10, 11, 13, 14, 16, 19, 22, 24, 27, 28, 29, 30, 31, 33, 37, 38, 43, 45, 46, 47 
 
-# STOPPED ON 2.42
+# C PROGRAMMING
+
+# Paused on 3.15
