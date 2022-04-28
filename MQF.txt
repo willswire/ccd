@@ -13,5 +13,9 @@
 4, 6, 8, 10, 11, 13, 14, 16, 19, 22, 24, 27, 28, 29, 30, 31, 33, 37, 38, 43, 45, 46, 47 
 
 # C PROGRAMMING
+# Review:
+# - Data structures
+# - Pre/post increments
+21, 23, 30
 
-# Paused on 3.15
+# Paused on 3.35
