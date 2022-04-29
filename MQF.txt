@@ -1,3 +1,8 @@
+# REVIEW
+# (7+27+75+6+8)/(18+50+89+8+9)
+# 123/174 ≈ 70%
+# Target is 90%
+
 # ALGORITHMS (7/18)
 # Review:
 # - Big(O) notation for select algorithms
@@ -22,3 +27,14 @@
 # - argv[0] is reserved
 # - arrays passed to functions
 21, 23, 30, 36, 40, 41, 50, 55, 74, 76, 82, 85, 87, 89
+
+# DATA STRUCTURES (6/8)
+# Review:
+# - Stack ordering (last in, first out)
+# - Queue ordering (first in, first out)
+2, 7
+
+# GIT (8/9)
+# Review:
+# - git diff command
+9
