@@ -1,5 +1,5 @@
 # PROGRESS
-# 156/215 ≈ 73%
+# 158/220 ≈ 73%
 # Target is 90%
 
 # ALGORITHMS (7/18)
@@ -44,3 +44,7 @@
 # - python ntohl socket function
 # - ip classes
 12, 17, 21, 22, 24, 35, 37, 39
+
+
+# SOFTWARE ENGINEERING FUNDAMENTALS (2/5)
+2, 3, 4
