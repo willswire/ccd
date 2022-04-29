@@ -1,6 +1,5 @@
-# REVIEW
-# (7+27+75+6+8)/(18+50+89+8+9)
-# 123/174 ≈ 70%
+# PROGRESS
+# 156/215 ≈ 73%
 # Target is 90%
 
 # ALGORITHMS (7/18)
@@ -38,3 +37,10 @@
 # Review:
 # - git diff command
 9
+
+# NETWORKING (33/41)
+# Review:
+# - differences between hub, bridge, switch, router
+# - python ntohl socket function
+# - ip classes
+12, 17, 21, 22, 24, 35, 37, 39
