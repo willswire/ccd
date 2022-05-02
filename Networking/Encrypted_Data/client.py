@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import socket, struct
+import socket, struct, base64
 from cryptography.fernet import Fernet
 
 # Refer to README.md for the problem instructions
@@ -26,7 +26,7 @@ def pack(cmd, msgLength = 0):
 
 def enc(msg, key):
     f = Fernet(key)
-    return f.encrypt(msg)
+    return f.encrypt(msg.encode('utf-8'))
 
 #This function should return the server's final message as an actual Python 3 string,
 #not as a byte sequence.
@@ -43,13 +43,16 @@ def get_message_using_encrypted_request_protocol():
     s.send(message)
 
     ## 2
-    message = s.recv(44)
+    message = s.recv(100)
     print("Message received: ", message)
     key = message[4:]
 
     ## 3
     payload = enc("I challenge!", key)
     print("Encrypted payload: ", payload)
+    cmd = socket.htonl(cmd_list['encrypted-message'])
+    message = cmd + payload
+    s.send(message)
 
     s.close()
     return ""
@@ -58,3 +61,4 @@ def get_message_using_encrypted_request_protocol():
 if __name__ == "__main__":
     message = get_message_using_encrypted_request_protocol()
     print(message)
+
