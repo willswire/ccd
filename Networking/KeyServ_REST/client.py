@@ -57,6 +57,6 @@ def do_put(key_val) -> str:
     s.close()
 
     strRes = response.decode('utf-8')
-    formattedResponse = re.search("\r\n\r\n(.*?)\n", strRes).group(1)
+    formattedResponse = strRes.split("\r\n\r\n")[-1]
 
     return formattedResponse
