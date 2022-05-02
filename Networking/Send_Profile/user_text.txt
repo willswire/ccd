@@ -1,0 +1,3 @@
+name: bill
+pass: password1
+posts:54321
