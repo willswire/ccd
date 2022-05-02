@@ -1,134 +1,166 @@
-37562 ---- INFO ---- Server awaiting connection, listening on port 1337
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b''
-37562 ---- ERROR ---- invalid packet:  only support 48 and 104 byte packets
-37562 ---- INFO ---- CheckrideReqHandler2 received:b''
-37562 ---- ERROR ---- invalid packet:  only support 48 and 104 byte packets
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b''
-37562 ---- ERROR ---- invalid packet:  only support 48 and 104 byte packets
-37562 ---- INFO ---- CheckrideReqHandler2 received:b''
-37562 ---- ERROR ---- invalid packet:  only support 48 and 104 byte packets
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
-37562 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
-37562 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
-37562 ---- INFO ---- Received key-request packet
+225 ---- INFO ---- Server awaiting connection, listening on port 1337
+225 ---- INFO ---- Connection from: ('172.19.0.2', 12345)
+225 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+225 ---- INFO ---- Received key-request packet
+225 ---- INFO ---- CheckrideReqHandler2 received:b''
+225 ---- ERROR ---- invalid packet:  only support 48 and 104 byte packets
+225 ---- INFO ---- Connection from: ('172.19.0.2', 7777)
+225 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+225 ---- INFO ---- Received key-request packet
+225 ---- INFO ---- CheckrideReqHandler2 received:b''
+225 ---- ERROR ---- invalid packet:  only support 48 and 104 byte packets
+225 ---- INFO ---- Connection from: ('172.19.0.2', 7777)
+225 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+225 ---- INFO ---- Received key-request packet
+225 ---- INFO ---- CheckrideReqHandler2 received:b''
+225 ---- ERROR ---- invalid packet:  only support 48 and 104 byte packets
+225 ---- INFO ---- Connection from: ('172.19.0.2', 7777)
+225 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+225 ---- INFO ---- Received key-request packet
+225 ---- INFO ---- CheckrideReqHandler2 received:b''
+225 ---- ERROR ---- invalid packet:  only support 48 and 104 byte packets
+225 ---- INFO ---- Connection from: ('172.19.0.2', 7777)
+225 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+225 ---- INFO ---- Received key-request packet
+225 ---- INFO ---- CheckrideReqHandler2 received:b''
+225 ---- ERROR ---- invalid packet:  only support 48 and 104 byte packets
+225 ---- INFO ---- Connection from: ('172.19.0.2', 7777)
+225 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+225 ---- INFO ---- Received key-request packet
+225 ---- INFO ---- CheckrideReqHandler2 received:b''
+225 ---- ERROR ---- invalid packet:  only support 48 and 104 byte packets
+225 ---- INFO ---- Connection from: ('172.19.0.2', 7777)
+225 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+225 ---- INFO ---- Received key-request packet
+225 ---- INFO ---- CheckrideReqHandler2 received:b''
+225 ---- ERROR ---- invalid packet:  only support 48 and 104 byte packets
+225 ---- INFO ---- Connection from: ('172.19.0.2', 7777)
+225 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+225 ---- INFO ---- Received key-request packet
+225 ---- INFO ---- CheckrideReqHandler2 received:b''
+225 ---- ERROR ---- invalid packet:  only support 48 and 104 byte packets
+225 ---- INFO ---- Connection from: ('172.19.0.2', 7777)
+225 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+225 ---- INFO ---- Received key-request packet
+225 ---- INFO ---- CheckrideReqHandler2 received:b''
+225 ---- ERROR ---- invalid packet:  only support 48 and 104 byte packets
+225 ---- INFO ---- Connection from: ('172.19.0.2', 7777)
+225 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+225 ---- INFO ---- Received key-request packet
+225 ---- INFO ---- CheckrideReqHandler2 received:b'\x00\x00\x08\x02gAAAAABib9iRl10HHauz_CjY-4anDv6-ANRcqSAMu8wPOVoClawJx-F9wVFb-v__xBTi1EcA0WQ51Z41nQKBmFe28CVKoQw39g=='
+225 ---- INFO ---- Received encrypted-message packet
+225 ---- INFO ---- Received encrypted_message: b'gAAAAABib9iRl10HHauz_CjY-4anDv6-ANRcqSAMu8wPOVoClawJx-F9wVFb-v__xBTi1EcA0WQ51Z41nQKBmFe28CVKoQw39g=='
+225 ---- INFO ---- About to reply to encrypted-message.  Encrypted reply is b'gAAAAABib9iTGmImYxDDJQbfeKaRd-5wRvQeJj4_aFaoai2FY8YhY7_bQhl2tcz8CqEEueHLK-NFtRMoTmntrel2L-VBtBQM-g=='
+225 ---- INFO ---- Server processing of this client is complete.
+225 ---- INFO ---- Connection from: ('172.19.0.2', 7777)
+225 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+225 ---- INFO ---- Received key-request packet
+225 ---- INFO ---- CheckrideReqHandler2 received:b'\x00\x00\x08\x02gAAAAABib9ig4UpeYtkkf1FEFCXzoBHjSsS5-CU1aWf_cwMm9pbJ4HCLPbIdBw2zJ37vl7yDstfY4ajOrV9YrHdB9H1VDWKKhg=='
+225 ---- INFO ---- Received encrypted-message packet
+225 ---- INFO ---- Received encrypted_message: b'gAAAAABib9ig4UpeYtkkf1FEFCXzoBHjSsS5-CU1aWf_cwMm9pbJ4HCLPbIdBw2zJ37vl7yDstfY4ajOrV9YrHdB9H1VDWKKhg=='
+225 ---- INFO ---- About to reply to encrypted-message.  Encrypted reply is b'gAAAAABib9ihsxlbkrXmKiPmsddskEhqobr_WAq_lEnx60yrxnlc5uaveENKzjUEDyHiQCH9lQc1_1njlT3XZfYzY2H450T2vg=='
+225 ---- INFO ---- Server processing of this client is complete.
+225 ---- INFO ---- Connection from: ('172.19.0.2', 7777)
+225 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+225 ---- INFO ---- Received key-request packet
+225 ---- INFO ---- CheckrideReqHandler2 received:b'\x00\x00\x08\x02gAAAAABib9i_WOp5_ugPP9kXylnqVi1qmTXgY4svc7lCeIjWyqVl0_S6LM8IgzeqU-AhTFwswzN_oznbnsmblNk1_ntZB8x25g=='
+225 ---- INFO ---- Received encrypted-message packet
+225 ---- INFO ---- Received encrypted_message: b'gAAAAABib9i_WOp5_ugPP9kXylnqVi1qmTXgY4svc7lCeIjWyqVl0_S6LM8IgzeqU-AhTFwswzN_oznbnsmblNk1_ntZB8x25g=='
+225 ---- INFO ---- About to reply to encrypted-message.  Encrypted reply is b'gAAAAABib9jAP8hqJbY9QmCSpE869fVLTO5olCUQjf4d6cE4qukgsA5NQ3TcW6Fqf_xgW-7JGsSunXpuxOJsPunLJjoJYKIdDw=='
+225 ---- INFO ---- Server processing of this client is complete.
+225 ---- INFO ---- Connection from: ('172.19.0.2', 7777)
+225 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+225 ---- INFO ---- Received key-request packet
+225 ---- INFO ---- CheckrideReqHandler2 received:b'\x00\x00\x08\x02gAAAAABib9jkreVvVpxM6kXn3iDZwhWHCZV2LvmflCh_P2GDwCV-A-WOKvWatW2eQxqFGLza8k1zVZxRxVKG4BDCvowgzxlIjA=='
+225 ---- INFO ---- Received encrypted-message packet
+225 ---- INFO ---- Received encrypted_message: b'gAAAAABib9jkreVvVpxM6kXn3iDZwhWHCZV2LvmflCh_P2GDwCV-A-WOKvWatW2eQxqFGLza8k1zVZxRxVKG4BDCvowgzxlIjA=='
+225 ---- INFO ---- About to reply to encrypted-message.  Encrypted reply is b'gAAAAABib9jnKMN4I8m7QLFcRBtXEdx-tHZrgU4XYpt43xBTcT3GdEjLchYOA5t2mUi2Se2N4kEH9ZYqnu9Zm5pW_GyViqNz0A=='
+225 ---- INFO ---- Server processing of this client is complete.
+225 ---- INFO ---- Connection from: ('172.19.0.2', 7777)
+225 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+225 ---- INFO ---- Received key-request packet
+225 ---- INFO ---- CheckrideReqHandler2 received:b'\x00\x00\x08\x02gAAAAABib9kg0KZ8yKfc97RjWft3Zojcc3YEtP2Kkt2ZxBXJX_Js-UXwwTUXZ0rESUiz-yXdDs1RILBdg0NtSj8Rg3QBj3w_qg=='
+225 ---- INFO ---- Received encrypted-message packet
+225 ---- INFO ---- Received encrypted_message: b'gAAAAABib9kg0KZ8yKfc97RjWft3Zojcc3YEtP2Kkt2ZxBXJX_Js-UXwwTUXZ0rESUiz-yXdDs1RILBdg0NtSj8Rg3QBj3w_qg=='
+225 ---- INFO ---- About to reply to encrypted-message.  Encrypted reply is b'gAAAAABib9kghixei3oBZyanvQZNdnLv4rrqqa13f3X-ali7dp-rN-F3Qf5ampCDuaWQsKEtXZTMMnL6Cgp2-Uggol3oRehM2A=='
+225 ---- INFO ---- Server processing of this client is complete.
+225 ---- INFO ---- Connection from: ('172.19.0.2', 7777)
+225 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+225 ---- INFO ---- Received key-request packet
+225 ---- INFO ---- CheckrideReqHandler2 received:b'\x00\x00\x08\x02gAAAAABib9ladYM0SltDrYKAgg-EwJdraXdTXmkZd2wZaFIlaL78er2aw8DXbaj3mUCMlanKyvjBq1i1FqJop_p6vt6AO20Mdg=='
+225 ---- INFO ---- Received encrypted-message packet
+225 ---- INFO ---- Received encrypted_message: b'gAAAAABib9ladYM0SltDrYKAgg-EwJdraXdTXmkZd2wZaFIlaL78er2aw8DXbaj3mUCMlanKyvjBq1i1FqJop_p6vt6AO20Mdg=='
+225 ---- INFO ---- About to reply to encrypted-message.  Encrypted reply is b'gAAAAABib9la9z2d7s5k1Ykv-EAZwCIKfIMGSoMN-8UThnguXqB4rPfFeMr7dWHDF0FQFRki-ddcfY89S-bNRIfPs6pPmyoGDA=='
+225 ---- INFO ---- Server processing of this client is complete.
+225 ---- INFO ---- Connection from: ('172.19.0.2', 7777)
+225 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+225 ---- INFO ---- Received key-request packet
+225 ---- INFO ---- CheckrideReqHandler2 received:b'\x00\x00\x08\x02gAAAAABib9ly9-xSpaxkl-4yP609m0iffLoww0HxKvXK_Lrz4EaFeft-psPmEYnwokYYP3oTHCYCN9NwKRGx3QhBG8kyW_XSng=='
+225 ---- INFO ---- Received encrypted-message packet
+225 ---- INFO ---- Received encrypted_message: b'gAAAAABib9ly9-xSpaxkl-4yP609m0iffLoww0HxKvXK_Lrz4EaFeft-psPmEYnwokYYP3oTHCYCN9NwKRGx3QhBG8kyW_XSng=='
+225 ---- INFO ---- About to reply to encrypted-message.  Encrypted reply is b'gAAAAABib9lyG8VHLlG_q6xlKmjVNCgLqWck7rwFHzstvNMbaREx7KxS5FhQ9qDzmhQvg2v5pDtcdkgxzdDOffP2_eX9_TO2cw=='
+225 ---- INFO ---- Server processing of this client is complete.
+225 ---- INFO ---- Connection from: ('172.19.0.2', 7777)
+225 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+225 ---- INFO ---- Received key-request packet
+225 ---- INFO ---- CheckrideReqHandler2 received:b'\x00\x00\x08\x02gAAAAABib9l1ZBzRdBqa3H2H9j7nZjrJYdcx2o9_WVlavwbpuKLaKssETe5mXMtijJ6FguSiwhbpjre_x2jielWzC9K6C-jl8g=='
+225 ---- INFO ---- Received encrypted-message packet
+225 ---- INFO ---- Received encrypted_message: b'gAAAAABib9l1ZBzRdBqa3H2H9j7nZjrJYdcx2o9_WVlavwbpuKLaKssETe5mXMtijJ6FguSiwhbpjre_x2jielWzC9K6C-jl8g=='
+225 ---- INFO ---- About to reply to encrypted-message.  Encrypted reply is b'gAAAAABib9l1Z8GvD9UaJx_tBmLQB0uQJl24Rk2TQmc_hhiQOHe4ErCYs_pnGs3ujCjRuaDH9j2Do4Pzzf7rX4__nTcGghTShA=='
+225 ---- INFO ---- Server processing of this client is complete.
+225 ---- INFO ---- Connection from: ('172.19.0.2', 7777)
+225 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+225 ---- INFO ---- Received key-request packet
+225 ---- INFO ---- CheckrideReqHandler2 received:b'\x00\x00\x08\x02gAAAAABib9mDiHTmQjR4F-VyULxvVBif3RLwIQk2-XKeErCzp3AULU97Wy7dUfTDi3boFomtfjAHp_plPH2Z3dVMf5UtevUMkg=='
+225 ---- INFO ---- Received encrypted-message packet
+225 ---- INFO ---- Received encrypted_message: b'gAAAAABib9mDiHTmQjR4F-VyULxvVBif3RLwIQk2-XKeErCzp3AULU97Wy7dUfTDi3boFomtfjAHp_plPH2Z3dVMf5UtevUMkg=='
+225 ---- INFO ---- About to reply to encrypted-message.  Encrypted reply is b'gAAAAABib9mDD---0AfH1NWVabqecNY3a9oRoO4mIi2u9o0FHBycw_EHOgx9lUB0ZaS1iEagCcDd_SYJl4iw54zFz56g4KomLA=='
+225 ---- INFO ---- Server processing of this client is complete.
+225 ---- INFO ---- Connection from: ('172.19.0.2', 7777)
+225 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+225 ---- INFO ---- Received key-request packet
+225 ---- INFO ---- CheckrideReqHandler2 received:b'\x00\x00\x08\x02gAAAAABib9mYB4XuSR_D4rUEettixUJWhrRI4iAXW4FN5-H4Tc7rTTAulzyAGh-R5PGhEkWP3p1A0k30FIncQznPYUtp-BvxAQ=='
+225 ---- INFO ---- Received encrypted-message packet
+225 ---- INFO ---- Received encrypted_message: b'gAAAAABib9mYB4XuSR_D4rUEettixUJWhrRI4iAXW4FN5-H4Tc7rTTAulzyAGh-R5PGhEkWP3p1A0k30FIncQznPYUtp-BvxAQ=='
+225 ---- INFO ---- About to reply to encrypted-message.  Encrypted reply is b'gAAAAABib9mYtt7UZhjDg4_-VqJ0T4tcp8WAQryLdBYt327-gtKHunpiviiIwxiOmXvgLoyajKn0fcthOl97gfXNo34bbEjd7Q=='
+225 ---- INFO ---- Server processing of this client is complete.
+225 ---- INFO ---- Connection from: ('172.19.0.2', 7777)
+225 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+225 ---- INFO ---- Received key-request packet
+225 ---- INFO ---- CheckrideReqHandler2 received:b'\x00\x00\x08\x02gAAAAABib9npSOZeoeuuKufpIpRk644gvv-3zKL9NnR4rUHRssBThQFtbBczNIErzbWtI8rz99gNsC83wxBCOl65APyZu6o5IA=='
+225 ---- INFO ---- Received encrypted-message packet
+225 ---- INFO ---- Received encrypted_message: b'gAAAAABib9npSOZeoeuuKufpIpRk644gvv-3zKL9NnR4rUHRssBThQFtbBczNIErzbWtI8rz99gNsC83wxBCOl65APyZu6o5IA=='
+225 ---- INFO ---- About to reply to encrypted-message.  Encrypted reply is b'gAAAAABib9np-XBbrazKEJrsUuDzdNw3e0-mXQi6XS0CthkyXeGvSlp8tQd8VmM7zefjAKc6kjj5XcC6HH71m-em-GmOkOzo6g=='
+225 ---- INFO ---- Server processing of this client is complete.
+225 ---- INFO ---- Connection from: ('172.19.0.2', 7777)
+225 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+225 ---- INFO ---- Received key-request packet
+225 ---- INFO ---- CheckrideReqHandler2 received:b'\x00\x00\x08\x02gAAAAABib9oLEiyD_8G89IN3mpaDM5utwfhFtA03Eg8F-flDb4JtHUl3IfFalA3L86zQ2JBje-S0CQXkPUaqH18hFK0nezdwlg=='
+225 ---- INFO ---- Received encrypted-message packet
+225 ---- INFO ---- Received encrypted_message: b'gAAAAABib9oLEiyD_8G89IN3mpaDM5utwfhFtA03Eg8F-flDb4JtHUl3IfFalA3L86zQ2JBje-S0CQXkPUaqH18hFK0nezdwlg=='
+225 ---- INFO ---- About to reply to encrypted-message.  Encrypted reply is b'gAAAAABib9oLhQDWIoqGwdhuHlHsdwula78mSt3W1XW1OygT29O4lGZG75i2lNLWcaWwBCvJLQMeDroAF2yj6L3lqBIHRt5D0g=='
+225 ---- INFO ---- Server processing of this client is complete.
+225 ---- INFO ---- Connection from: ('172.19.0.2', 7777)
+225 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+225 ---- INFO ---- Received key-request packet
+225 ---- INFO ---- CheckrideReqHandler2 received:b'\x00\x00\x08\x02gAAAAABib9oWHSK34W2Nd3_9JKJgFgmmlS_V31iTaHBi0X6YAhdv3YBz3HrG8_717nAdTOB2sMKkb7jFw20dfOTs9HIcA5tk8w=='
+225 ---- INFO ---- Received encrypted-message packet
+225 ---- INFO ---- Received encrypted_message: b'gAAAAABib9oWHSK34W2Nd3_9JKJgFgmmlS_V31iTaHBi0X6YAhdv3YBz3HrG8_717nAdTOB2sMKkb7jFw20dfOTs9HIcA5tk8w=='
+225 ---- INFO ---- About to reply to encrypted-message.  Encrypted reply is b'gAAAAABib9oWiKHJ1kbIDJVIO4sSz6TUy1QS087KHdDAyIWGUP3ntDeamtO6978m9HZVt-Z1RFOsjGTHVnNu90MC8h4W8-oCNA=='
+225 ---- INFO ---- Server processing of this client is complete.
+225 ---- INFO ---- Connection from: ('172.19.0.2', 7777)
+225 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+225 ---- INFO ---- Received key-request packet
+225 ---- INFO ---- CheckrideReqHandler2 received:b'\x00\x00\x08\x02gAAAAABib9tbWu2WXyOvah8-zB-vysEhtG7rle7wcSJm5AqLhnw-ae9C52bqNNhiiAiIjXVruVC2ZL9jk04GZaZazpZx_aNOjg=='
+225 ---- INFO ---- Received encrypted-message packet
+225 ---- INFO ---- Received encrypted_message: b'gAAAAABib9tbWu2WXyOvah8-zB-vysEhtG7rle7wcSJm5AqLhnw-ae9C52bqNNhiiAiIjXVruVC2ZL9jk04GZaZazpZx_aNOjg=='
+225 ---- INFO ---- About to reply to encrypted-message.  Encrypted reply is b'gAAAAABib9tbAvJ8eMcAYQrjfPRHjIfIi-2953LCO4e23qrz5qZGHBDmmU_gmSGZ9i4ioViP72pqDWCbOPGsGTY4rrldai56zw=='
+225 ---- INFO ---- Server processing of this client is complete.
+225 ---- INFO ---- Connection from: ('172.19.0.2', 7777)
+225 ---- INFO ---- CheckrideReqHandler1 received:b'\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+225 ---- INFO ---- Received key-request packet
+225 ---- INFO ---- CheckrideReqHandler2 received:b'\x00\x00\x08\x02gAAAAABib9t3MgOawaELS5qCeCgFcuGUYBWDOribJhID_z7-U_dwVyKC9-DGth2f5FIKxI6g5uFlStKx8En6V9ltoL15Mxvxrg=='
+225 ---- INFO ---- Received encrypted-message packet
+225 ---- INFO ---- Received encrypted_message: b'gAAAAABib9t3MgOawaELS5qCeCgFcuGUYBWDOribJhID_z7-U_dwVyKC9-DGth2f5FIKxI6g5uFlStKx8En6V9ltoL15Mxvxrg=='
+225 ---- INFO ---- About to reply to encrypted-message.  Encrypted reply is b'gAAAAABib9t3-8xZqJi2i0yoceN4XIfnA_1M_Pk8J2z1Cg8YnUbA0Y4obThk2fdcMs3hDCQu7tlDNRxS8ogfqWE8QvzZ0jVL5w=='
+225 ---- INFO ---- Server processing of this client is complete.
