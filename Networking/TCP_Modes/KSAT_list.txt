@@ -1,0 +1,8 @@
+This question is intended to evaluate the following topics:
+	A0018 - Analyze a problem to formulate a software solution.
+	A0019 - Integrate functionality between multiple software components.
+	S0093 - Serialize fixed size multi-byte types between systems of differing endianness.
+	S0094 - Serialize and de-serialize variable sized data structures between systems of differing endianness.
+	K0091 - Understand how to account for endianness between differing systems.
+	S0096 - Utilize the Socket library.
+	A0631 - IPv4 Addressing
