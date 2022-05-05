@@ -1,0 +1,13 @@
+F
+======================================================================
+FAIL: test_string_reversal (__main__.CheckRideTestOne)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "runtests.py", line 17, in test_string_reversal
+    self.assertEqual(expected_output, first_test(exp_input))
+AssertionError: 'gfedcba nmlkjih utsrqpo 21zyxwv' != ''
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (failures=1)
