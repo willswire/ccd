@@ -25,6 +25,10 @@ struct nameNode *processNames(const char **names)
         else if (strlen(names[i]) != 0)
         {
             struct nameNode *newNode = malloc(sizeof(struct nameNode));
+            if (newNode == NULL) {
+                perror("Error allocating memory for new node");
+            }
+
             newNode->name = (char *)names[i];
             newNode->next = NULL;
 
@@ -51,6 +55,10 @@ struct nameNode *processNames(const char **names)
 
 void freeMemory(struct nameNode *head)
 {
+    if (head == NULL) {
+        perror("The head node is NULL");
+    }
+
     struct nameNode *tmp;
 
     while (head != NULL)
