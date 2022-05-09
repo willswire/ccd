@@ -5,54 +5,58 @@
 #include "TestCode.h"
 
 // Refer to README.md for the problem instructions
-const int NAMES_LENGTH = 10;
 
 struct nameNode *processNames(const char **names)
 {
-    // Check if `names` is null
-    if (names == NULL) {
+    // Check for NULL input
+    if (names == NULL)
+    {
         return NULL;
     }
 
-    struct nameNode *head;
+    int namesLength = 10;
+    struct nameNode *head = NULL;
+    for (int i = 0; i < namesLength; i++)
+    {
+        if (names[i] == NULL)
+        {
+            return NULL;
+        }
+        else if (strlen(names[i]) != 0)
+        {
+            struct nameNode *newNode = malloc(sizeof(struct nameNode));
+            newNode->name = (char *)names[i];
+            newNode->next = NULL;
 
-    struct nameNode *temp;
-    for (int i = NAMES_LENGTH - 1; i <= 0; i--) {
-        char *currentName = (char *) names[i];
-        if (currentName != "") {
+            if (head == NULL || (strcmp(head->name, newNode->name) > 0))
+            {
+                newNode->next = head;
+                head = newNode;
+            }
+            else
+            {
+                struct nameNode *currentNode = head;
+                while (currentNode->next != NULL && (strcmp(currentNode->next->name, newNode->name) < 0))
+                {
+                    currentNode = currentNode->next;
+                }
+                newNode->next = currentNode->next;
+                currentNode->next = newNode;
+            }
         }
     }
 
-    // int firstNameValue = __INT_MAX__;
-    // char *firstName;
-
-    // // For each name in names...
-    // for (int i = 0; i < NAMES_LENGTH; i++) {
-
-    //     // Check if the value is NULL
-    //     if (names[i] == NULL) {
-    //         return NULL;
-    //     }
-
-    //     // Get the value of the name
-    //     int nameValue = 0;
-    //     for (int j = 0; j < strlen(names[i]); j++) {
-    //         nameValue += (int) names[i][j];
-    //     }
-
-    //     // If it is less than the current name
-    //     // set a new firstName
-    //     if (nameValue < firstNameValue) {
-    //         firstNameValue = nameValue;
-    //         firstName = (char *) names[i];
-    //     }
-    // }
-    // printf("The first name in the list is %s", firstName);
-    
     return head;
 }
 
 void freeMemory(struct nameNode *head)
 {
+    struct nameNode *tmp;
 
+    while (head != NULL)
+    {
+        tmp = head;
+        head = head->next;
+        free(tmp);
+    }
 }
