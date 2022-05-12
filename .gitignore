@@ -4,3 +4,4 @@ googletest
 __pycache__
 *.json
 *.yml
+*.DS_Store
